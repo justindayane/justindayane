@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Justin (Abdou Dayane) Gbadamassi</h1>
 <h3 align="center">A passionate full stack developer based in New York Metropolitan Area</h3>
